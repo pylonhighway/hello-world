@@ -1,0 +1,24 @@
+p { 
+    color: cornflowerblue;
+}
+
+background-color {
+    color:snow;
+}
+
+h1 {
+    color:darkslateblue
+}
+
+h2 {
+    color:darkblue
+}
+
+h3 {
+    color:darkslategray
+}
+
+#memes {
+    text-align: center;
+    max-width: 500px;
+}
